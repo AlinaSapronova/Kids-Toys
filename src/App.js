@@ -11,10 +11,7 @@ function App() {
   const[kidsToys, setKidsToys] = useState(0)
 
   return (
-    <div className="">
-        <h1 className="header">Welcome to our KIDS Toys shop!!</h1>
-
-      {/* <AllToys/> */}
+    <div>
      <Routes>
          <Route exact path="/" element={<AllToys toys={toys} setToys={setToys}/>}></Route>
          <Route exact path="/AboutToys" element={<AboutToys kidsToys={kidsToys} setKidsToys={setKidsToys}/>}></Route>

@@ -3,8 +3,8 @@ body{
   color: white;
 }
 .img{
-  width: 350px;
-  height: 350px;
+  width: 300px;
+  height: 300px;
 }
 .toy{
   display: flex;
@@ -15,19 +15,36 @@ body{
   background-color: #b7c4cf64;
   border-radius: 10px;
   padding: 10px;
-  margin: 20px;
+  margin: 10px 20px 20px 10px;
   text-align: center;
   width: 400px;
 }
 .button{
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
 }
 .btn{
   font-size: 25px;
-  background-color: #ECC5FB;
+  background-color: #FFF9B0;
   padding: 10px;
   border-radius: 10px;
+}
+.left{
+  font-size:40px ;
+  font-weight: bold;
+  background-color: #FFF9B0;
+  border-radius: 20px;
+  margin: 5px;
+  width: 10%;
+}
+.right{
+  font-size:50px ;
+  background-color: #FFF9B0;
+  padding: 7px;
+  border-radius: 20px;
+  margin: 5px;
+  width: 10%;
+ 
 }
 .App-header {
 font-size: 35px;
@@ -41,31 +58,23 @@ text-align: center;
   font-size: 45px;
 }
 
-
-
-.app{
-  display: flex;
-  justify-content: center;
-  background-color: #D1E8E4;
-}
 .next {
  display: flex;
- justify-content: space-evenly;
- margin-left: 50px;
-
+ justify-content: space-around;
 }
 .container {
-
   display: flex;
   flex-direction: column;
   align-items: center;
-
-
-  height: 800px;
-
-  margin-top: 50px;
-
+  
 }
 #img{
-  width: 500px;
+  width: 450px;
+  height: 450px;
+}
+.description{
+  font-size: 30px;
+  text-align: center;
+  margin-left:150px ;
+  margin-right:150px ;
 }

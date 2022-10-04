@@ -1,6 +1,6 @@
 export const data = [
     {
-        id:1,
+        id: 1,
 
         name: "Deluxe Wooden ABC",
 
@@ -14,7 +14,7 @@ export const data = [
     },
 
     {
-        id:2,
+        id: 2,
 
         name: "Wooden Building Blocks",
 
@@ -28,7 +28,7 @@ export const data = [
     },
 
     {
-        id:3,
+        id: 3,
 
         name: "Wooden Puzzle",
 
@@ -42,7 +42,7 @@ export const data = [
     },
 
     {
-        id:4,
+        id: 4,
 
         name: "4-in-1 Wooden  Puzzles",
 
@@ -56,7 +56,7 @@ export const data = [
     },
 
     {
-        id:5,
+        id: 5,
 
         name: "Wooden Dinosaur Puzzles",
 
@@ -70,7 +70,7 @@ export const data = [
     },
 
     {
-        id:6,
+        id: 6,
 
         name: "Magnetic Tiles Building Blocks",
 
@@ -84,7 +84,7 @@ export const data = [
     },
 
     {
-        id:7,
+        id: 7,
 
         name: "Pipe Magnetic Blocks",
 
@@ -98,7 +98,7 @@ export const data = [
     },
 
     {
-        id:8,
+        id: 8,
 
         name: "Magnetic Building Blocks",
 
@@ -112,7 +112,7 @@ export const data = [
     },
 
     {
-        id:9,
+        id: 9,
 
         name: "Wooden Educational Toys",
 
@@ -126,7 +126,7 @@ export const data = [
     },
 
     {
-        id:10,
+        id: 10,
 
         name: " Wooden Magnetic Fishing Game",
 
@@ -140,7 +140,7 @@ export const data = [
     },
 
     {
-        id:11,
+        id: 11,
 
         name: "Wooden Sorting and Stacking",
 
@@ -150,11 +150,11 @@ export const data = [
 
         price: "$25.00",
 
-        details:false
+        details: false
     },
 
     {
-        id:12,
+        id: 12,
 
         name: "Wooden Peg Board Beads Game",
 
@@ -164,6 +164,6 @@ export const data = [
 
         price: "$19.99",
 
-        details:false
+        details: false
     },
 ]
