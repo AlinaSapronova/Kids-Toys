@@ -8,9 +8,7 @@ export const data = [
 
         description:"Our ABC blocks are excellent for toddlers and preschoolers to develop strong skills including matching, stacking, sorting, and word recognition.",
 
-        price: "$18.99",
-
-        details:false
+        price: "$18.99"
     },
 
     {
@@ -22,9 +20,7 @@ export const data = [
 
         description:"Wooden building blocks set includes 100 durable wooden blocks in 4 different colors and 9 shapes; it’s a classic educational toy that provides hours of hands on, screen free play and learning",
 
-        price: "$23.99",
-
-        details:false
+        price: "$23.99"
     },
 
     {
@@ -36,9 +32,7 @@ export const data = [
 
         description:"Puzzle pieces are big enough for your kids,which will fit nicely into little hands. Toddlers can learn shapes, colors and math symbols at the same time.6 flash cards will also help toddlers to learn where objects belong and how they go together, Encourages them without frustrating them",
 
-        price: "$18.99",
-
-        details:false
+        price: "$18.99"
     },
 
     {
@@ -50,9 +44,7 @@ export const data = [
 
         description:"Pets Puzzles include four 12-piece puzzles featuring a fish, a dog, a cat, and a bird.Our pets puzzles for kids can be easily stored in the included sturdy wooden storage box that doubles as a puzzle board.",
 
-        price: "$11.99",
-
-        details:false
+        price: "$11.99"
     },
 
     {
@@ -64,9 +56,7 @@ export const data = [
 
         description:"This children's dinosaur puzzle comes with 24 pieces in a sturdy wooden tray for easy transport and storage. Made of high quality wood, each part of the puzzle toy is thick and durable enough for repeated use by young children aged 3-8 years old",
 
-        price: "$25.99",
-
-        details:false
+        price: "$25.99"
     },
 
     {
@@ -78,9 +68,7 @@ export const data = [
 
         description:"Magnetic tiles are made of Non-Toxic and durable ABS plastic, the round corner design won’t hurt your children’s little hands, Our factory adopt the advanced ultrasonic welding technology to avoid any flaw, so there is no need to worry about your kids’ safety, just release their endless creativity and free their imagination.",
 
-        price: "$39.99",
-
-        details:false
+        price: "$39.99"
     },
 
     {
@@ -92,9 +80,7 @@ export const data = [
 
         description:"Never too early to start developing kids imagination. Your little one’s would acquire strong sense of color, geometrical shapes, creativity, color and shape recognition, spatial imagination ability, patience and problem-solving skills",
 
-        price: "$48.99",
-
-        details:false
+        price: "$48.99"
     },
 
     {
@@ -106,9 +92,7 @@ export const data = [
 
         description:"Never too early to start developing kids' creativity. 4-7 young ages can acquire strong sense of color, geometrical shapes including 3D forms numbers counts, magnetic polarities & architectural design. Big size magnetic building blocks are fun and entertaining, perfect educational presents for school age children that will never go out of style,suitable for home,indoor,kindergarten",
 
-        price: "$69.99",
-
-        details:false
+        price: "$69.99"
     },
 
     {
@@ -120,9 +104,7 @@ export const data = [
 
         description:"High-quality wooden toys include 12 fruit blocks, 8 carrots, 10 cute worms, and a five-sided cart with different shapes and structures. Furthermore, the wooden toy is large particles, polished edges, and non-toxic water-based paint, satisfying both baby’s need for fun learning and the parent’s wish for safety and quality",
 
-        price: "$25.99",
-
-        details:false
+        price: "$25.99"
     },
 
     {
@@ -134,9 +116,7 @@ export const data = [
 
         description:" This simple and adorable fishing game offers hours of fun for children. It comes with 2 Wooden Magnetic Fishing Poles, 1 Wooden Sorting Box, 26 PCS Wooden fish. It is not only a fun activity for your little kids, but also is a great toy for learning the alphabet, color recognition!",
 
-        price: "$25.99",
-
-        details:false
+        price: "$25.99"
     },
 
     {
@@ -148,9 +128,7 @@ export const data = [
 
         description:"Our toddler learning toy is designed to help children develop their fine motor skills, count and sort and better recognize patterns. This wooden stacking puzzle contains 20 pieces including blocks of 5 different colors and 5 geometric shapes. The oversized pegs and shapes that come with this set are large enough to be easily grasped by tiny fingers - an excellent hand-eye and wrist coordination challenge for your child!",
 
-        price: "$25.00",
-
-        details: false
+        price: "$25.00"
     },
 
     {
@@ -162,8 +140,6 @@ export const data = [
 
         description:"Color, shape matching side- there are 4 bright color- blue, yellow, green, red color. Shape matching side, there are 4 different shape: square, round, triangle and five-pointed star. It helps toddler to recognize the color and the shape. A good Montessori toys for toddler kids.",
 
-        price: "$19.99",
-
-        details: false
+        price: "$19.99"
     },
 ]
